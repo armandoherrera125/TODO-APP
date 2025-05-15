@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "4b4eb9a5-62dc-4f02-a5fd-eafc8d4974da",
+    "task": "otra mas jaja",
+    "status": true
+  },
+  {
+    "uuid": "68117f7a-be7c-46aa-9556-1422f9c9032c",
+    "task": "Salir hoy",
+    "status": true
+  },
+  {
+    "uuid": "41721bcd-9fbf-49c8-93e7-0d1751d25098",
+    "task": "Gemas infinitas",
+    "status": true
+  },
+  {
+    "uuid": "fc111322-968d-48ad-ac5e-e1dd247f7a4b",
+    "task": "primera tarea",
+    "status": true
+  },
+  {
+    "uuid": "81ac1e11-09a7-4573-8807-4aab401ea255",
+    "task": "segunda tarea",
+    "status": true
+  },
+  {
+    "uuid": "d3d6c6d7-146d-4f7b-8bb3-8e55249af283",
+    "task": "otra incompleta",
+    "status": false
+  }
+]
